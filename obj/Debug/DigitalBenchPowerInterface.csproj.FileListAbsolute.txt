@@ -1,0 +1,14 @@
+C:\Users\Ashan\Documents\Visual Studio 2019\Projects\DigitalBenchPowerInterface\bin\Debug\DigitalBenchPowerInterface.exe.config
+C:\Users\Ashan\Documents\Visual Studio 2019\Projects\DigitalBenchPowerInterface\bin\Debug\DigitalBenchPowerInterface.exe
+C:\Users\Ashan\Documents\Visual Studio 2019\Projects\DigitalBenchPowerInterface\bin\Debug\DigitalBenchPowerInterface.pdb
+C:\Users\Ashan\Documents\Visual Studio 2019\Projects\DigitalBenchPowerInterface\obj\Debug\DigitalBenchPowerInterface.csprojAssemblyReference.cache
+C:\Users\Ashan\Documents\Visual Studio 2019\Projects\DigitalBenchPowerInterface\obj\Debug\DigitalBenchPowerInterface.Form1.resources
+C:\Users\Ashan\Documents\Visual Studio 2019\Projects\DigitalBenchPowerInterface\obj\Debug\DigitalBenchPowerInterface.Properties.Resources.resources
+C:\Users\Ashan\Documents\Visual Studio 2019\Projects\DigitalBenchPowerInterface\obj\Debug\DigitalBenchPowerInterface.csproj.GenerateResource.cache
+C:\Users\Ashan\Documents\Visual Studio 2019\Projects\DigitalBenchPowerInterface\obj\Debug\DigitalBenchPowerInterface.csproj.CoreCompileInputs.cache
+C:\Users\Ashan\Documents\Visual Studio 2019\Projects\DigitalBenchPowerInterface\obj\Debug\DigitalBenchPowerInterface.exe
+C:\Users\Ashan\Documents\Visual Studio 2019\Projects\DigitalBenchPowerInterface\obj\Debug\DigitalBenchPowerInterface.pdb
+C:\Users\Ashan\Documents\Visual Studio 2019\Projects\DigitalBenchPowerInterface\bin\Debug\CircularProgressBar.dll
+C:\Users\Ashan\Documents\Visual Studio 2019\Projects\DigitalBenchPowerInterface\bin\Debug\WinFormAnimation.dll
+C:\Users\Ashan\Documents\Visual Studio 2019\Projects\DigitalBenchPowerInterface\bin\Debug\CircularProgressBar.xml
+C:\Users\Ashan\Documents\Visual Studio 2019\Projects\DigitalBenchPowerInterface\obj\Debug\DigitalBenchPowerInterface.csproj.CopyComplete
